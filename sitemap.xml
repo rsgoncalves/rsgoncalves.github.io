@@ -6,10 +6,16 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-	<loc>https://rsgoncalves.github.io</loc>
-	<lastmod>2025-11-06</lastmod>
+	<loc>https://rsgoncalves.github.io/</loc>
+	<lastmod>2025-11-07</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://rsgoncalves.github.io/index.html</loc>
+	<lastmod>2025-11-07</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
 </url>
 
 </urlset>
